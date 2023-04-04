@@ -3,7 +3,7 @@
 
 Steps to Install and Run :
 
-git clone
-cd to source code
-npm install
-npm start
+1. git clone
+2. cd to source code
+3. npm install
+4. npm start
